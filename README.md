@@ -2,7 +2,7 @@
 
 <img src="client/public/favicon.svg" alt="Imagify Logo" width="180"/>
 
-# ✨ Imagify - AI Transforming Your Images Magically ✨
+# ✨ Pictora - AI Transforming Your Images Magically ✨
 
 > 🎨 Where Creativity Meet Technology
 
@@ -150,51 +150,3 @@ npm run dev
 
 </div>
 
-## 🤝 Contributing
-
-<div align="center">
-
-We welcome contributions! Here's how you can help:
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
-</div>
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-<div align="center">
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-</div>
-
-## 🙏 Acknowledgment
-
-<div align="center">
-
-| Resource | Description |
-|----------|-------------|
-| [Heroicons](https://heroicons.com/) | Beautiful icons |
-| [TailwindCSS](https://tailwindcss.com/) | Utility-first CSS framework |
-| [React Community](https://reactjs.org/community) | Amazing React ecosystem |
-
-</div>
-
----
-
-<div align="center">
-
-### Contributed with ❤️ by [singh04ayush] & [ phoenixdev100 ] 
-
-[![GitHub Follow](https://img.shields.io/github/followers/singh04ayush?style=social)](https://github.com/singh04ayush)
-
-</div> 
