@@ -2,7 +2,7 @@
 
 <img src="client/public/favicon.svg" alt="Imagify Logo" width="180"/>
 
-# ✨ Pictora - AI Transforming Your Images Magically ✨
+# ✨ Pictora  ✨
 
 > 🎨 Where Creativity Meet Technology
 
@@ -11,13 +11,6 @@
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.0.15-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=20232A)](https://tailwindcss.com/)
 [![Express.js](https://img.shields.io/badge/Express-4.18.0-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 
-
-
-[![GitHub stars](https://img.shields.io/github/stars/singh04ayush/imagify?style=social)](https://github.com/singh04ayush/imagify/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/singh04ayush/imagify?style=social)](https://github.com/singh04ayush/imagify/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/singh04ayush/imagify?style=social)](https://github.com/singh04ayush/imagify/issues)
-
----
 
 </div>
 
