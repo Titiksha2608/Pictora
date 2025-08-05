@@ -96,20 +96,10 @@ VITE_BACKEND_URL=http://localhost:5000
 npm run dev
 ```
 
-#### Frontend Environment Variables Explanation
-| Variable | Description | Example |
-|----------|-------------|---------|
-| `VITE_BACKEND_URL` | Backend API URL | `http://localhost:5000` |
 
 ### 4. Access the Application
 - Frontend: `http://localhost:5173`
 - Backend API: `http://localhost:5000`
-
-> **Important Notes**: 
-> - Never commit your `.env` files to version control
-> - Make sure to replace the example values with your actual configuration
-> - The CLIPDROP_API key can be obtained from [ClipDrop API](https://clipdrop.co/apis)
-> - Keep your JWT_SECRET secure and use a strong random string
 
 <div align="center">
 
