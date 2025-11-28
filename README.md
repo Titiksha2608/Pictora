@@ -3,6 +3,8 @@
 # ✨ Pictora  ✨
 
 </div>
+
+<div align="left">
 # 🛠️ Tech Stack
 
 <div align="center">
@@ -19,6 +21,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-6.0.0-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 </div>
+
 # ✨ Features
 
 - 🚀 **Fast Processing**: Optimized for performance
