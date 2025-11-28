@@ -6,7 +6,7 @@
 
 <div align="left">
 # 🛠️ Tech Stack
-
+</div>
 <div align="center">
 
  Frontend
