@@ -44,8 +44,8 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/singh04ayush/imagify.git
-cd imagify
+git clone https://github.com/Titiksha2608/Pictora.git
+cd Pictora
 ```
 
 ### 2. Backend Setup
