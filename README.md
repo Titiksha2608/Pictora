@@ -66,7 +66,7 @@ JWT_SECRET=your_jwt_secret_key
 CLIPDROP_API=your_clipdrop_api_key
 
 # Start the server
-npm run server
+npm start
 ```
 
 #### Backend Environment Variables Explanation
@@ -110,7 +110,7 @@ npm run dev
 
 | Command | Description |
 |---------|-------------|
-| `npm run server` | Starts backend |
+| `npm start` | Starts backend |
 | `npm run dev` | Starts frontend |
 
 ### Environment Variables
